@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-color-correct"
+version = "1.0.0"
+description = 'Magik Color Correct'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-color-correct"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Color Correct"
